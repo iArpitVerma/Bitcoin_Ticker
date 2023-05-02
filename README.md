@@ -9,7 +9,7 @@ The objective of this repository is to help people about using Cupertino and Mat
 
 I have created a crypto currency price checking app. This app helps you monitor your bitcoin investents on the move!
 
-![Finished App](https://github.com/iArpitVerma/Bitcoin_Ticker/bitcoin_ticker.gif)
+![Finished App](https://github.com/iArpitVerma/Bitcoin_Ticker/blob/main/bitcoin_ticker.gif)
 
 
 ## What I have learnt
